@@ -1,1 +1,1 @@
-# mini-agent
+# ai-agent-lab
